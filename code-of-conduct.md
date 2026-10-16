@@ -26,7 +26,7 @@ This is Calamity's code of conduct.
 1. Staff rank will be assigned as deemed necessary by the Guild Master.
 2. Factors that contribute:
 	- to act mature
-	- to possess critical thinking skills
+	- to possess critical thinking and decision making skills
 	- to be active
 4. There will be 3 moderators. The current moderators are:
    - Bfvarroe <@268206514576162818>
@@ -52,4 +52,4 @@ This is Calamity's code of conduct.
 	- commiting treason
 # 4 Rules and Infractions
 1. Infractions are separated into two categories: minor and major. The category of an infraction will be decided on a case to case basis. Minor infractions will recieve a warning before punishment.
-2. 
+2. Infractions may be reported via ...
